@@ -24,7 +24,7 @@ You can now install `dropboxignore` as you normally would.
 $ brew install dropboxignore
 ```
 
-# Related
+## Related
 
 - [homebrew-dbxcli](https://github.com/idleberg/homebrew-dbxcli)
 
