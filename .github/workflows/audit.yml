@@ -28,7 +28,7 @@ jobs:
         brew update --auto-update
 
     - name: Tap Repository
-      run: brew tap idleberg/asahi
+      run: brew tap idleberg/dropboxignore
 
     - name: Audit Formulas
-      run: brew audit idleberg/asahi/dropboxignore --online
+      run: brew audit idleberg/dropboxignore/dropboxignore --online
