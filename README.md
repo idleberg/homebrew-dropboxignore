@@ -1,7 +1,6 @@
 # homebrew-dropboxignore
 
-[![BSD 2-Clause License](https://flat.badgen.net/badge/license/BSD%202-Clause/blue)](https://opensource.org/licenses/BSD-2-Clause)
-[![Latest Release](https://flat.badgen.net/github/release/idleberg/homebrew-dropboxignore)](https://github.com/idleberg/homebrew-dropboxignore/releases)
+[![BSD 2-Clause License](https://img.shields.io/github/license/idleberg/homebrew-asahi?style=for-the-badge)](https://opensource.org/licenses/BSD-2-Clause)
 [![Build](https://img.shields.io/github/actions/workflow/status/idleberg/homebrew-asahi/audit.yml?style=for-the-badge)](https://github.com/idleberg/homebrew-asahi/actions)
 
 Homebrew tap for [dropboxignore](https://dropboxignore.simakis.me/)
