@@ -2,7 +2,7 @@
 
 [![BSD 2-Clause License](https://flat.badgen.net/badge/license/BSD%202-Clause/blue)](https://opensource.org/licenses/BSD-2-Clause)
 [![Latest Release](https://flat.badgen.net/github/release/idleberg/homebrew-dropboxignore)](https://github.com/idleberg/homebrew-dropboxignore/releases)
-[![Travis](https://flat.badgen.net/travis/idleberg/homebrew-dropboxignore)](https://travis-ci.org/idleberg/homebrew-dropboxignore)
+[![Build](https://img.shields.io/github/actions/workflow/status/idleberg/homebrew-asahi/audit.yml?style=for-the-badge)](https://github.com/idleberg/homebrew-asahi/actions)
 
 Homebrew tap for [dropboxignore](https://dropboxignore.simakis.me/)
 
@@ -11,7 +11,7 @@ Homebrew tap for [dropboxignore](https://dropboxignore.simakis.me/)
 Tap this repository in order to be able to install its formulae
 
 ```sh
-$ brew tap idleberg/dropboxignore
+$ brew tap idleberg/asahi
 ```
 
 ## Usage
